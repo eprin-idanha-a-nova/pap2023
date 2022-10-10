@@ -1,0 +1,1 @@
+# Repositório criado com a finalidade de agrupar em apenas um local, os projetos elaborados para a prova de aptidão profissional dos alunos do terceiro ano do Curso Técnico de Informática de Gestão 2020/2023 da EPRIN - Escola Profissional da Raia
